@@ -1,0 +1,7 @@
+data/title.basics.tsv
+data/title.basics.tsv.gz
+*.gz
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
